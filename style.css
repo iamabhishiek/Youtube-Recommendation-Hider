@@ -1,0 +1,12 @@
+#secondary {
+  background: url("https://cdn.lifehack.org/wp-content/uploads/2016/12/08230522/best-motivational-quotes-dont-limit-challenges.png");
+  background-size: 80%;
+  background-repeat: repeat-y;
+  /* background: fixed; */
+}
+#primary {
+  /* height: 1000px; */
+  background: url("https://www.wallpaperflare.com/static/13/259/684/text-think-positively-network-wallpaper.jpg");
+  background-size: 80%;
+  background-repeat: repeat-y;
+}
