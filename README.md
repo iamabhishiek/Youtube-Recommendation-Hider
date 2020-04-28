@@ -1,6 +1,5 @@
 # Youtube-Recommendation-Hider
 
-# Project Youtube Recommendation Hider
 
 ## Ojectives
 
