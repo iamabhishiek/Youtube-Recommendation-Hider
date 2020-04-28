@@ -18,6 +18,6 @@
 
 ## Some sample Images
 
-![image description](images/NoRecommendation.jpg)
-![image description](images/UpNext.jpg)
-![image description](images/NoComment.jpg)
+![image description](images/NoRecommendation.png)
+![image description](images/UpNext.png)
+![image description](images/NoComment.png)
